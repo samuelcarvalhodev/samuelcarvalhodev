@@ -1,6 +1,6 @@
 
 ![Welcome](https://github.com/samuelcarvalhodev/samuelcarvalhodev/blob/main/Untitled.png?raw=true)
-### I'm web developer, and beginning in mobile development with react-native
+### I'm web developer, and beginning in .NET and C# development
 [![Linkedin: SamuelCarvalhoDev](https://img.shields.io/badge/-SamuelCarvalhoDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelcarvalhodev/)](https://www.linkedin.com/in/samuelcarvalhodev/)
 [![GitHub Samuel](https://img.shields.io/github/followers/samuel?label=follow&style=social)](https://github.com/samuelcarvalhodev)
 ![Profile views](https://gpvc.arturio.dev/samuelcarvalhodev)
