@@ -21,11 +21,9 @@
 
 ---
 
-<a href="https://github.com/samuelcarvalhodev/samuelcarvalhodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelcarvalhodev&show_icons=true&line_height=27&count_private=true&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Samuel's GitHub Stats" />
-</a>
-
-<a href="https://github.com/samuelcarvalhodev/samuelcarvalhodev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcarvalhodev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelcarvalhodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcarvalhodev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
