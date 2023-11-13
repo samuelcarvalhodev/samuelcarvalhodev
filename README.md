@@ -3,7 +3,6 @@
 ### I'm web developer, and beginning in TDD and Clean Architecture
 [![Linkedin: SamuelCarvalhoDev](https://img.shields.io/badge/-SamuelCarvalhoDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelcarvalhodev/)](https://www.linkedin.com/in/samuelcarvalhodev/)
 [![GitHub Samuel](https://img.shields.io/github/followers/samuel?label=follow&style=social)](https://github.com/samuelcarvalhodev)
-![Profile views](https://gpvc.arturio.dev/samuelcarvalhodev)
 ### Tech & Tools Preference
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
